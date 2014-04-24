@@ -42,7 +42,3 @@ for 5-NN:
 accuracy is the percentage of correctly classified samples among all the input samples. Similarly, error is the percentage of misclassified samples among all the
 input samples. The function also computes the confusion matrix. It is a 10x10 matrix showing the percentage of correctly
 classified as well as misclassified samples.
-
-**********************************************************************************************************************************************************/
-
-
