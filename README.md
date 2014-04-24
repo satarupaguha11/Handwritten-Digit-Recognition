@@ -1,4 +1,10 @@
-/**********************************************************************************************************************************************************/
+REQUIREMENTS
+------------
+Matlab
+
+HOW TO RUN
+----------
+
 I have implemented the Hand written digit Recognizer in the following way-
 1. Reading and Preprocessing of the image
 2. Feature Extraction
